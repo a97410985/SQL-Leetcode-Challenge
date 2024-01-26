@@ -1,3 +1,7 @@
+這個是從別人那邊fork出來的，而這個repo也會記錄自己的解答，與解題思路。
+重點是會給予把table跟sample data建起來的sql，這樣可以方便自己在local電腦端，執行各種sql來看結果。
+
+
 # SQL-Leetcode-Challenge 
 
 ## Motivation
