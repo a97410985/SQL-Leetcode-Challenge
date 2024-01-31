@@ -47,3 +47,6 @@ select
 	ad_id, (click_num/total * 100) as CTR
 FROM my_temp order by CTR desc;
 ```
+
+如果是用MYSQL workbench還可以看query plan，雖然看不太懂就是了
+![Alt text](image-1.png)
